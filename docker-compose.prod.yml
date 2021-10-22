@@ -31,7 +31,7 @@ services:
       - MONGO_PASSWORD=password
       - SESSION_SECRET=secret
     restart: always
-    command: npm run dev
+    command: npm run start
 
   mongo:
     container_name: mongo
