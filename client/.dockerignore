@@ -1,0 +1,16 @@
+.DS_Store
+DONT
+node_modules
+Dockerfile
+.dockerignore
+.git
+.gitignore
+.env
+docker-compose.dev.yml
+docker-compose.prod.yml
+docker-compose.yml
+package-lock.json
+postcss.config.js
+README.md
+tailwind.config.js
+tailwind.css

@@ -1,0 +1,28 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"text": "Make Bed"
+		},
+		{
+			"id": 2,
+			"text": "Make Coffee"
+		},
+		{
+			"id": 3,
+			"text": "Make Food"
+		},
+		{
+			"id": 4,
+			"text": "Make Angry customer"
+		},
+		{
+			"id": 5,
+			"text": "Make messy job"
+		},
+		{
+			"id": 6,
+			"text": "Fuck it"
+		}
+	]
+}
